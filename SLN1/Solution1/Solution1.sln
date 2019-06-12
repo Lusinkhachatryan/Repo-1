@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic average", "Arith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Absolute Value", "ConsoleApplication2\Absolute Value.csproj", "{3EF1A712-1C78-4B27-92ED-8EA83EC53C78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deposit - calculation", "Deposit - calculation\Deposit - calculation.csproj", "{8231098B-0834-488A-AA9C-59E53E920F0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3EF1A712-1C78-4B27-92ED-8EA83EC53C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EF1A712-1C78-4B27-92ED-8EA83EC53C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EF1A712-1C78-4B27-92ED-8EA83EC53C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8231098B-0834-488A-AA9C-59E53E920F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8231098B-0834-488A-AA9C-59E53E920F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8231098B-0834-488A-AA9C-59E53E920F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8231098B-0834-488A-AA9C-59E53E920F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
