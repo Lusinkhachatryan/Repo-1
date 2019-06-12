@@ -13,10 +13,12 @@ namespace Deposit___calculation
             Console.Write("Deposit Amount -> ");
             int Amount = int.Parse(Console.ReadLine());
             Console.Write("Interest rate ->");
-            double IntRate = double.Parse(Console.ReadLine());
-            Console.WriteLine("Total Amount will be " + Amount*(1+IntRate/100*3));
+            float IntRate = float.Parse(Console.ReadLine());
+            Console.WriteLine("Total Amount will be " + Amount*(1+IntRate/100*36));
             Console.ReadKey();
+            
 
         }
     }
 }
+
