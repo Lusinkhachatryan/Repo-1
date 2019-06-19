@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5", "Task5\Task5.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional constructions", "conditional constructions\conditional constructions.csproj", "{CDEE770D-91B4-42E4-BC5F-6CBA07AA3EF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicOperators", "LogicOperators\LogicOperators.csproj", "{F746D7D9-5839-463D-8154-F61FFF550B0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CDEE770D-91B4-42E4-BC5F-6CBA07AA3EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDEE770D-91B4-42E4-BC5F-6CBA07AA3EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDEE770D-91B4-42E4-BC5F-6CBA07AA3EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F746D7D9-5839-463D-8154-F61FFF550B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F746D7D9-5839-463D-8154-F61FFF550B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F746D7D9-5839-463D-8154-F61FFF550B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F746D7D9-5839-463D-8154-F61FFF550B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
