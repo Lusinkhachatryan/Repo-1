@@ -814,9 +814,9 @@ namespace LogicOperators
 
             if (Rem == 1)
             {
-                int Num2 = n - Rem - 5;
-                int a = (Rem + 5) / 3;
-                int b = Num2 / 5;
+                int Num2 = n - Rem - 3*3;
+                int a = Num2 / 3;
+                int b = (Rem + 3*3) / 5;
 
 
                 Console.WriteLine("3*" + a +"+"+ "5*" + b + "=" + n);
@@ -825,9 +825,9 @@ namespace LogicOperators
             else if(Rem == 2)
 
             {
-                int Num2 = n - Rem - 2*5;
-                int a = (Rem + 2*5) / 3;
-                int b = Num2 / 5;
+                int Num2 = n - Rem - 3;
+                int a = Num2 / 3;
+                int b = (Rem + 3) / 5;
 
                 Console.WriteLine("3*" + a + "+" + "5*" + b + "=" + n);
 
