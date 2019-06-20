@@ -622,12 +622,12 @@ namespace LogicOperators
             //int B = int.Parse(Console.ReadLine());
             //int C = int.Parse(Console.ReadLine());
 
-            //if ((Math.Abs(B) - Math.Abs(A)) < (Math.Abs(C) - Math.Abs(A)))
+            //if ((Math.Abs(B - A) < Math.Abs(C - A))
 
             //{
 
             //    Console.WriteLine(B);
-            //    Console.WriteLine(Math.Abs(A) - Math.Abs(B));
+            //    Console.WriteLine(Math.Abs(B - A));
 
             //}
             //else
@@ -635,14 +635,14 @@ namespace LogicOperators
             //{
 
             //    Console.WriteLine(C);
-            //    Console.WriteLine(Math.Abs(A) - Math.Abs(C));
+            //    Console.WriteLine(Math.Abs(C - A));
 
             //}
 
             //Console.ReadKey();
 
             ////Task14
-            //Console.Write("Enter 3 numbers->");
+            //Console.Write("Enter 2 numbers->");
             //int X = int.Parse(Console.ReadLine());
             //int Y = int.Parse(Console.ReadLine());
 
@@ -677,7 +677,7 @@ namespace LogicOperators
             //Console.ReadKey();
 
             ////Task15
-            //Console.Write("Enter 3 numbers->");
+            //Console.Write("Enter 2 numbers->");
             //int X = int.Parse(Console.ReadLine());
             //int Y = int.Parse(Console.ReadLine());
 
