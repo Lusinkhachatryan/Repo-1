@@ -104,18 +104,23 @@ namespace Loop
             //int A = int.Parse(Console.ReadLine());
             //int B = int.Parse(Console.ReadLine());
             //int Number;
+            //string Output = "Not found";
             //for (int i = A; i <= B; i++)
             //{
             //    Number = i % 3;
             //    if (Number == 0)
             //    {
-            //        Console.WriteLine(i);
+            //        Output = " " + i;
+                   
             //    }
 
             //    if (Number == 0) break;
 
             //}
+            //Console.WriteLine(Output);
             //Console.ReadKey();
+
+
             ////task 9
             //Console.WriteLine("Enter a number");
             //int N = int.Parse(Console.ReadLine());
@@ -267,7 +272,7 @@ namespace Loop
 
             //    Console.ReadKey();
 
-            
+
 
 
 
