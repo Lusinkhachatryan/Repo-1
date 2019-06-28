@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loops", "Loops", "{E12C63B2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop 16-30", "Loop 16-30\Loop 16-30.csproj", "{6AD1D4C1-B537-4006-8425-CFF322F14BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{002408A4-63BD-4CBA-91ED-9E428CED6D72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{6AD1D4C1-B537-4006-8425-CFF322F14BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD1D4C1-B537-4006-8425-CFF322F14BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD1D4C1-B537-4006-8425-CFF322F14BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,5 +84,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{21E469A5-250B-4805-9519-26F99633C7AA} = {E12C63B2-5E9D-42DF-87D1-771C09DE21F1}
 		{6AD1D4C1-B537-4006-8425-CFF322F14BEA} = {E12C63B2-5E9D-42DF-87D1-771C09DE21F1}
+		{002408A4-63BD-4CBA-91ED-9E428CED6D72} = {E12C63B2-5E9D-42DF-87D1-771C09DE21F1}
 	EndGlobalSection
 EndGlobal
