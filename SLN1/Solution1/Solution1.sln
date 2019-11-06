@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop 16-30", "Loop 16-30\Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{002408A4-63BD-4CBA-91ED-9E428CED6D72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassExample", "SimpleClassExample\SimpleClassExample.csproj", "{B4ED9AD7-9B8E-430D-A2A1-B0A3CD3C5F32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{002408A4-63BD-4CBA-91ED-9E428CED6D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4ED9AD7-9B8E-430D-A2A1-B0A3CD3C5F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ED9AD7-9B8E-430D-A2A1-B0A3CD3C5F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ED9AD7-9B8E-430D-A2A1-B0A3CD3C5F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ED9AD7-9B8E-430D-A2A1-B0A3CD3C5F32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
